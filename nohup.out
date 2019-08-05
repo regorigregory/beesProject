@@ -1,0 +1,38 @@
+[I 21:06:06.791 NotebookApp] Writing notebook server cookie secret to /run/user/1000/jupyter/notebook_cookie_secret
+[C 21:06:18.441 NotebookApp] received signal 15, stopping
+[I 21:06:31.793 NotebookApp] jupyter_tensorboard extension loaded.
+[I 21:06:32.136 NotebookApp] JupyterLab extension loaded from /home/contact_gergo_endresz/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 21:06:32.136 NotebookApp] JupyterLab application directory is /home/contact_gergo_endresz/anaconda3/share/jupyter/lab
+[I 21:06:32.274 NotebookApp] Serving notebooks from local directory: /home/contact_gergo_endresz/j
+[I 21:06:32.274 NotebookApp] The Jupyter Notebook is running at:
+[I 21:06:32.274 NotebookApp] http://(instance-1 or 127.0.0.1):1066/
+[I 21:06:32.274 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 21:07:08.894 NotebookApp] 302 GET / (141.241.26.7) 0.96ms
+[W 21:07:09.000 NotebookApp] Clearing invalid/expired login cookie username-35-188-223-123-1066
+[I 21:07:09.001 NotebookApp] 302 GET /tree? (141.241.26.7) 2.15ms
+[I 21:07:19.785 NotebookApp] 302 GET / (141.241.26.7) 0.65ms
+[I 21:07:19.893 NotebookApp] 302 GET /tree? (141.241.26.7) 0.76ms
+[W 21:07:26.050 NotebookApp] Not allowing login redirect to '/tree?'
+[I 21:07:26.050 NotebookApp] 302 POST /login?next=%2Ftree%3F (141.241.26.7) 1.71ms
+[I 21:07:26.155 NotebookApp] 302 GET / (141.241.26.7) 0.62ms
+[I 21:07:40.887 NotebookApp] Creating new notebook in 
+[I 21:07:44.177 NotebookApp] Kernel started: 53ea6ba8-329d-4d3c-8212-56e7861bdb00
+[I 21:07:53.834 NotebookApp] Saving file at /Untitled3.ipynb
+[W 21:08:18.800 NotebookApp] 403 POST /api/shutdown (127.0.0.1): '_xsrf' argument missing from POST
+[W 21:08:18.831 NotebookApp] 403 POST /api/shutdown (127.0.0.1) 30.82ms referer=None
+[C 21:09:07.539 NotebookApp] received signal 15, stopping
+[I 21:09:07.540 NotebookApp] Shutting down 1 kernel
+[I 21:09:07.841 NotebookApp] Kernel shutdown: 53ea6ba8-329d-4d3c-8212-56e7861bdb00
+[C 21:10:57.367 NotebookApp] No such file or directory: /home/contact_gergo_endresz/j/j
+[I 21:11:32.115 NotebookApp] jupyter_tensorboard extension loaded.
+[I 21:11:32.150 NotebookApp] JupyterLab extension loaded from /home/contact_gergo_endresz/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 21:11:32.150 NotebookApp] JupyterLab application directory is /home/contact_gergo_endresz/anaconda3/share/jupyter/lab
+[I 21:11:32.155 NotebookApp] Serving notebooks from local directory: /home/contact_gergo_endresz/j
+[I 21:11:32.155 NotebookApp] The Jupyter Notebook is running at:
+[I 21:11:32.155 NotebookApp] http://(instance-1 or 127.0.0.1):1066/
+[I 21:11:32.155 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 21:11:39.381 NotebookApp] 302 GET / (141.241.26.7) 0.89ms
+[I 21:11:44.029 NotebookApp] Kernel started: ac2b9cd4-62aa-4b65-972c-94f26076958a
+[I 21:11:52.006 NotebookApp] Interrupted...
+[I 21:11:52.007 NotebookApp] Shutting down 1 kernel
+[I 21:11:52.308 NotebookApp] Kernel shutdown: ac2b9cd4-62aa-4b65-972c-94f26076958a
